@@ -1,0 +1,23 @@
+
+{"userId":"R16",
+"firstName":"prabakaran",
+"lastName":"Stark",
+"mobileNumber":9790593825,
+"emailId":"stark001csejarvis@gmail.com",
+"address":"eastStreet",
+"password":"Tony@1122"
+}
+
+{
+"firstName":"prabakaran",
+"lastName":"Stark",
+"email":"stark001csejarvis@gmail.com",
+"mobileNumber":9790593825,
+"gender":"male",
+"dateofBirth":"03/06/1998",
+"address":"3/4 eastStreet",
+"city":"trichy",
+"state":"tamilnadu",
+"country":"india",
+"pincode":"621011"
+}
